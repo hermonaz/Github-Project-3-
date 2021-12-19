@@ -8,7 +8,7 @@
 Bikeshare Project
 
 ### Description
-
+It is a python project made to explore bikeshare data in th US, based of 3 different cities
 
 
 ### Files used
